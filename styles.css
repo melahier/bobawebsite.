@@ -1,0 +1,68 @@
+
+body {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  background-color: bisque;
+  margin: 0;
+  padding: 40px 10px;
+}
+
+
+h1 {
+  text-decoration: underline;
+  color: #4a3319;
+}
+
+.subtitle {
+  color: #6a462b;
+  font-style: italic;
+  margin-bottom: 30px;
+}
+
+
+.boba-container {
+  background-color: white;
+  width: 300px;
+  margin: 0 auto; 
+  padding: 20px;
+  border: 3px solid #8b5e3c; 
+  border-radius: 12px;
+}
+
+
+img {
+  width: 200px;
+  border-radius: 8px;
+  border: 1px solid #ddd;
+}
+
+.description {
+  color: #333333;
+  font-size: 15px;
+}
+
+
+.menu-info {
+  background-color: #fff8f0;
+  padding: 10px;
+  margin: 15px 0;
+  border-radius: 6px;
+  font-size: 14px;
+}
+
+
+.boba-btn {
+  background-color: #8b5e3c;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  font-size: 14px;
+  font-weight: bold;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+
+.boba-btn:hover {
+  background-color: #6a462b;
+}
